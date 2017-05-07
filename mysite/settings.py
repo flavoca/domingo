@@ -25,7 +25,7 @@ SECRET_KEY = 'l_7lrq&am)#54$@p0@vm1oq4+@j(z2s_@+by^4$r3v&@trkvau'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['flavoca.pythonanywhere.com']
+ALLOWED_HOSTS = ['flavoca.pythonanywhere.com', "127.0.0.1"]
 
 
 # Application definition
